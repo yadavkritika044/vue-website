@@ -1,17 +1,17 @@
 <template>
   <div id="app">
-    <HelloWorld msg="Hi I am Kritika Yadav"/>
+    <Navigation />
   </div>
 </template>
 
 <script>
-import HelloWorld from "./components/HelloWorld";
+import Navigation from "./components//navigation.vue"; //import the component
 
 export default {
   name: "App",
   components: {
-    HelloWorld
-  }
+    Navigation, //instantiate it here
+  },
 };
 </script>
 
