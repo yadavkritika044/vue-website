@@ -1,16 +1,18 @@
 <template>
   <div id="app">
     <Navigation />
+    <Lander />
   </div>
 </template>
 
 <script>
 import Navigation from "./components/includes/nav.vue"; //import the component
-
+import Lander from "./components/Lander.vue";
 export default {
   name: "App",
   components: {
     Navigation, //instantiate it here
+    Lander,
   },
 };
 </script>
