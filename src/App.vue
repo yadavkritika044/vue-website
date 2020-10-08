@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import Navigation from "./components//navigation.vue"; //import the component
+import Navigation from "./components/includes/nav.vue"; //import the component
 
 export default {
   name: "App",
