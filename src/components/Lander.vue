@@ -25,4 +25,9 @@ export default {
   padding-top: 10%;
   padding-bottom: 10%;
 }
+.rounded-circle {
+  border-radius: 50% !important;
+  width: 200px;
+  height: 200px;
+}
 </style>
