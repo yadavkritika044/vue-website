@@ -68,12 +68,10 @@
         </section>
 </template>
     <script>
-      import card from './card.vue'
+     
       export default {
         name:'card',
-        components:{
-          card
-        }
+       
       }
       </script>
        <style>
