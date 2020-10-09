@@ -2,17 +2,20 @@
   <div id="app">
     <Navigation />
     <Lander />
+    <Card />
   </div>
 </template>
 
 <script>
 import Navigation from "./components/includes/nav.vue"; //import the component
 import Lander from "./components/Lander.vue";
+import Card from "./components/card";
 export default {
   name: "App",
   components: {
     Navigation, //instantiate it here
     Lander,
+    Card,
   },
 };
 </script>
