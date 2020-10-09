@@ -9,7 +9,7 @@
 <script>
 import Navigation from "./components/includes/nav.vue"; //import the component
 import Lander from "./components/Lander.vue";
-import Card from "./components/card";
+import Card from "./components/card.vue";
 export default {
   name: "App",
   components: {
