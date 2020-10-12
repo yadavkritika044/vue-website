@@ -2,7 +2,11 @@
   <div>
     <section class="section">
       <div class="container-fliud">
-        <img alt="Vue logo" class="rounded-circle" :src="tanuprofilepic" />
+        <img
+          alt="Vue logo"
+          class="rounded-circle"
+          src="https://firebasestorage.googleapis.com/v0/b/ad-bot-e026e.appspot.com/o/IMG-20200805-WA0028.jpg?alt=media&token=a449869b-cd20-4df8-8c91-0b7405396f4e"
+        />
         <h1>Software Developer</h1>
         <p>This is a fun project I built while learning vue.js and bootstrap</p>
         <button type="button" class="btn btn-primary btn-lg">Contact</button>
@@ -11,14 +15,7 @@
   </div>
 </template>
 <script>
-import tanuprofilepic from "../assets/tanuVueProfile.jpg";
-export default {
-  data: function () {
-    return {
-      tanuprofilepic: tanuprofilepic,
-    };
-  },
-};
+export default {};
 </script>
 <style lang="css" scoped>
 .section {
