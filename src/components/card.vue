@@ -7,16 +7,18 @@
         <div class="col-md-4">
           <div class="card">
             <div class="card-head">
-              <img alt="Vue logo" class="rounded-circle img-custome" src="" />
+              <img
+                alt="Vue logo"
+                class="rounded-circle img-custome"
+                src="https://firebasestorage.googleapis.com/v0/b/ad-bot-e026e.appspot.com/o/IMG-20200805-WA0028.jpg?alt=media&token=a449869b-cd20-4df8-8c91-0b7405396f4e"
+              />
               <h2>web project</h2>
             </div>
             <hr />
             <div class="card-body">
               <p>
-                Donec sed odio dui. Etiam porta sem malesuada magna mollis
-                euismod. Nullam id dolor id nibh ultricies vehicula ut id elit.
-                Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-                Praesent commodo cursus magna.
+                vue js uses three code html,css and javascript for its
+                framework.
               </p>
               <button type="button" class="btn btn-outline-secondary">
                 More
@@ -37,12 +39,7 @@
             </div>
             <hr />
             <div class="card-body">
-              <p>
-                Donec sed odio dui. Etiam porta sem malesuada magna mollis
-                euismod. Nullam id dolor id nibh ultricies vehicula ut id elit.
-                Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-                Praesent commodo cursus magna.
-              </p>
+              <p>Merging of three codes makes project very smooth.</p>
               <button type="button" class="btn btn-outline-secondary">
                 More
               </button>
@@ -62,12 +59,7 @@
             </div>
             <hr />
             <div class="card-body">
-              <p>
-                Donec sed odio dui. Etiam porta sem malesuada magna mollis
-                euismod. Nullam id dolor id nibh ultricies vehicula ut id elit.
-                Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-                Praesent commodo cursus magna.
-              </p>
+              <p>javascript render html code and html elements.</p>
               <button type="button" class="btn btn-outline-secondary">
                 More
               </button>
