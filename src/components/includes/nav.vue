@@ -22,13 +22,22 @@
             >
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Link</a>
+            <a class="nav-link" href="#">Page</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link disabled" href="#">Disabled</a>
+            <a class="nav-link" href="#">About</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Portfolio</a>
           </li>
         </ul>
       </div>
     </nav>
   </div>
 </template>
+<style scoped>
+.nav li a:hover {
+  color: black;
+}
+</style>
+

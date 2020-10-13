@@ -27,9 +27,7 @@ export default {};
   width: 200px;
   height: 200px;
 }
-h1 {
-  color: red;
-}
+
 p {
   color: black;
 }
