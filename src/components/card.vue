@@ -12,7 +12,7 @@
                 class="rounded-circle img-custome"
                 src="https://firebasestorage.googleapis.com/v0/b/ad-bot-e026e.appspot.com/o/IMG-20200805-WA0028.jpg?alt=media&token=a449869b-cd20-4df8-8c91-0b7405396f4e"
               />
-              <h2>web project</h2>
+              <h3>web project</h3>
             </div>
             <hr />
             <div class="card-body">
@@ -35,7 +35,7 @@
                 class="rounded-circle img-custome"
                 src="https://i.pinimg.com/originals/4a/70/56/4a70563234301578c158dc142384a1c3.png"
               />
-              <h2>web project</h2>
+              <h3>web project</h3>
             </div>
             <hr />
             <div class="card-body">
@@ -55,7 +55,7 @@
                 class="rounded-circle img-custome"
                 src="https://cdn.mos.cms.futurecdn.net/wH5y2PkWhCxqKBje8rBp5e.jpg"
               />
-              <h2>web project</h2>
+              <h3>web project</h3>
             </div>
             <hr />
             <div class="card-body">
