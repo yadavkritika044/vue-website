@@ -1,6 +1,6 @@
 <template>
   <section class="protfolio">
-    <h1>Portfolio</h1>
+    <h1>Page</h1>
     <p>These are suppose to be sample projects</p>
     <div class="container">
       <div class="row">
